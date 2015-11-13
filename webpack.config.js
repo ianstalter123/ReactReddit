@@ -30,7 +30,7 @@ var common = {
   },
   plugins: [
     new HtmlwebpackPlugin({
-      title: 'React Stock Portfolio App'
+      title: 'React Reddit Clone'
     })
   ]
 };
