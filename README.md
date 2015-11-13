@@ -1,5 +1,3 @@
-# React-Stock-Portfolio
+# React-Reddit Clone
 
-A simple stock portfolio app written in React.
-
-I will update this README later.
+Still working on it
